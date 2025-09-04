@@ -1,2 +1,3 @@
-# Giacinta-Marescotti
-Praktikum 1
+# Praktikum 1 mata kuliah Platform
+
+
